@@ -9,3 +9,6 @@ Form1.cs -> public Form1()
 
 AthenaFirstTimeSetup.cs -> public void enterpls_Click(object sender, EventArgs e)
 * Required for whitelisting & data folder creation.
+
+Athena's pipe name is called "scriptpipe", the only argument is a string that contains the script you'd want to execute.
+(Source example in Form1.cs -> void boye())
